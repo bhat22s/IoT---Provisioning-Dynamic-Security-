@@ -1,0 +1,2 @@
+prefix,CupCarbon,name,zoom,centerposition_la,centerposition_lo,map,display_details,draw_radio_links,draw_sensor_arrows,radio_links_color,draw_marker_arrows,display_rl_distance,propagation,display_marker_distance,display_radio_messages,draw_script_file_name,display_print_messages,display_all_routes
+project,U-One 4.2,cs682,4,42.31507540356635,-71.04053735733032,0,false,true,true,0,false,false,false,false,false,false,true,false
