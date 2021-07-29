@@ -22,7 +22,7 @@ This protocol was designed by a team of cryptographers from Graz University of T
 
 ## Trivium & PRESENT
 
-The implementation for Trivium can be found here: 
+The implementation for Trivium can be found here: https://github.com/johnny-pan/trivium
 
 The implementation for PRESENT can be found here: https://github.com/xSAVIKx/PRESENT-cipher 
 
