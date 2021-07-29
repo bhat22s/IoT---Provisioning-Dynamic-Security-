@@ -26,4 +26,4 @@ The implementation for Trivium can be found here: https://github.com/johnny-pan/
 
 The implementation for PRESENT can be found here: https://github.com/xSAVIKx/PRESENT-cipher 
 
-We had to edit both protocols to make them python3 compatible. The implementations can be found in the **prestrivtest** folder. File **test.py** contains the testing code we created for encryption/decryption speeds for both protocols. 
+We had to edit both protocols to make them python3 compatible. The implementations can be found in the **prestrivtest** folder. File **test.py** contains the encryption/decryption speed tests for both Trivium and PRESENT
