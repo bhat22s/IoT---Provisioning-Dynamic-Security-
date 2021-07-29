@@ -22,11 +22,11 @@ This protocol was designed by a team of cryptographers from Graz University of T
 
 ## Trivium 
 
-Our trivium implementation is located in **Trivium-1-master**. To run the tests we created for the protocol simply run **test.py** located within the folder. 
+The trivium implementation is located in **Trivium-1-master**. To run the tests we created for the protocol simply run **test.py** located within the folder. 
 
 This implementation was designed by: 
 Johnny Pan and Mario Zamora
 
 ## PRESENT
 
-Our PRESENT implemention is located in **PRESENT-cipher-master**. To run the tests we created 
+The PRESENT implemention is located in **PRESENT-cipher-master**. 
