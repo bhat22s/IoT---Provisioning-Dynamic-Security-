@@ -20,13 +20,10 @@ We did not create tests for the java implementation. The java version of the pro
 
 This protocol was designed by a team of cryptographers from Graz University of Technology, Infineon Technologies, and Radboud University: Christoph Dobraunig, Maria Eichlseder, Florian Mendel, and Martin Schläffer.
 
-## Trivium 
+## Trivium & PRESENT
 
-The trivium implementation is located in **Trivium-1-master**. To run the tests we created for the protocol simply run **test.py** located within the folder. 
+The implementation for Trivium can be found here: 
 
-This implementation was designed by: 
-Johnny Pan and Mario Zamora
+The implementation for PRESENT can be found here: https://github.com/xSAVIKx/PRESENT-cipher 
 
-## PRESENT
-
-The PRESENT implemention is located in **PRESENT-cipher-master**. 
+We had to edit both protocols to make them python3 compatible. The implementations can be found in the **prestrivtest** folder. File **test.py** contains the testing code we created for encryption/decryption speeds for both protocols. 
